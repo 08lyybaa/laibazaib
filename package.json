@@ -1,0 +1,11 @@
+{
+  "name": "convobridge-ai",
+  "version": "1.0.0",
+  "description": "ConvoBridge AI Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "author": "Laiba",
+  "license": "ISC"
+}
